@@ -10,7 +10,7 @@ Un sistema de archivos son los métodos y estructuras de datos que un sistema op
 
 
 
-##### Gparted : 2 partes
+#### Gparted : 2 partes
 
 Fdisk : Parte donde se hace partición
 
